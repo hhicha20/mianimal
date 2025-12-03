@@ -1,6 +1,6 @@
 import './App.css'
 
-import perrobonito from './assets/perrobonito.jpg'
+import perrobonito from './public/perrobonito.jpg'
 
 function App() {
   return (
