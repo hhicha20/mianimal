@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1>¡Hola, Perrito!</h1>
-      <img className='avatar' src={perrobonito} alt="imagen" />
+       <img src={perrobonito} alt="imagen" className="avatar" />
     </div>
   )
 }
